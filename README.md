@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=VrushaliJalgaonkar&color=blue)
 
 - 🔭 I’m currently working as Software Engineer in Rakuten Symphony,Inc. in Tokyo, Japan.
 - 🌱 I’m currently learning Golang, Docker and Kubernetes.
