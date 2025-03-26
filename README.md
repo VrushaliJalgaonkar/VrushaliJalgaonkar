@@ -2,8 +2,7 @@
 
 - I'm Vrushali Jalgaonkar. I hold Master of Technology (M. Tech) in Computer Engineering from VJTI (India).
 - I’m currently working as Software Engineer in Rakuten Symphony, Inc. in Tokyo, Japan.
-- I’m currently learning System design principles, Docker, and Kubernetes.
-<!-- - I’m looking to collaborate on remote projects having tech stack - Java, Python, Go, and related frameworks. -->
+- I’m currently learning System design principles, Docker, and Kubernetes. <!-- - I’m looking to collaborate on remote projects having tech stack - Java, Python, Go, and related frameworks. -->
 - Ask me about Java, Python and related frameworks, Apache Kafka, AWS S3, or anything related to software development.
 - How to reach me:  
   - Email - jalgaonkar.vrushali16@gmail.com  
