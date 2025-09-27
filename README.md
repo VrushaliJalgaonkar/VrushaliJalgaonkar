@@ -11,9 +11,9 @@
   - Leetcode - [vrushali_j](https://leetcode.com/vrushali_j/)  
   - Github - [VrushaliJalgaonkar](https://github.com/VrushaliJalgaonkar)  
 - Pronouns: She/Her
-
+<!--
 <h2 align="center">⚡ Leetcode Info ⚡<h2>  
-<!-- <p align="center"> 
+ <p align="center"> 
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vrushali_j?theme=dark&font=Nunito" />  
   <!--
